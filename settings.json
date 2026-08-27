@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GoofyGangMc.aternos.me:12306",
+    "ip": "GoofyGangMc.aternos.me",
     "port": 12306,
     "version": "26.2",
     "try-creative": false
