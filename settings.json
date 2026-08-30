@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GoofyGangMc.aternos.me",
-    "port": 12306,
+    "port": 50053,
     "version": "",
     "try-creative": false
   },
